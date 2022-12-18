@@ -4,8 +4,23 @@
 
 Este documento tem por objetivo disponibilizar informações sobre o ambiente de Nuvens Públicas no Banco do Brasil.
 
- <div style="overflow-x:auto;">
-<table border="0">
+
+<style>
+  /* Simplified version of Bootstrap's responsive table CSS */
+  .table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    border: 0;
+  }
+
+  .table-responsive > table {
+    width: 100%;
+  }
+</style>
+
+ <div class="table-responsive">
+<table class="table">
  <tr>
     <td><img width="35px" src="img/google.svg"/><b style="font-size:30px">Bem vindo</b></td>
     <td><img width="35px" src="img/kubernetes.svg"/><b style="font-size:30px">  Paas</b></td>
