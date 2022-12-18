@@ -7,7 +7,7 @@ Este documento tem por objetivo disponibilizar informações sobre o ambiente de
 
 <div style="text-align: justify">
 
-<table style="width:100%;border:0;vertical-align: top">
+<table width="100%" cellspacing="0" cellpadding="0">
  <tr>
     <td width="33%"><img width="35px" src="img/kubernetes.svg"/><b style="font-size:30px">Paas</b></td>
     <td width="33%"><img width="35px" src="img/azure.svg"/><b style="font-size:30px">SRE</b></td>
@@ -80,7 +80,7 @@ Este documento tem por objetivo disponibilizar informações sobre o ambiente de
 
 <div style="text-align: justify">
 
-<table style="width:100%;border:0;vertical-align: top">
+<table width="100%" cellspacing="0" cellpadding="0">
  <tr>
     <td width="25%"><img width="35px" src="img/azure.svg"/><b style="font-size:30px">Suporte</b></td>
     <td width="25%"><img width="35px" src="img/google.svg"/><b  style="font-size:30px">Bem vindo</b></td>
